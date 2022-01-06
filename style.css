@@ -11,7 +11,7 @@ h1{
     width: 50%;
 }
 .half-width img{
-    width: 40%;
+    width: 50%;
 }
 .link-button{
     text-decoration: none;
@@ -34,20 +34,33 @@ h1{
 }
 .orange-color{
     color: orange;
+    
 }
 .nevy{
     color: blue;
     }
     #text{
         text-align: right;
+        padding-left: 30%;
     }
     .half-exprience{
-        width: 20%;
-        margin-left: 10%;
-        margin-right: 10%;
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
         border-radius: 10px;
-        background-color: blue;
+        padding-left: 2%;
+       
     }
     .half-exprience img{
-        width: 100%;
+        width: 50%;
+    }
+    #back-color{
+        background-color: rgba(0, 0, 255, 0.288);
+
+    }
+    #bc{
+        background-color: rgba(255, 0, 0, 0.466);
+    }
+    #lc{
+        background-color: rgba(255, 166, 0, 0.397);
     }
