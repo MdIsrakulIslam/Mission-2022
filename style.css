@@ -4,14 +4,14 @@ body{
 h1{
     font-size: 40px;
 }
-.bannar{
+.felxible-container{
     display: flex;
 }
 .half-width{
     width: 50%;
 }
 .half-width img{
-    width: 60%;
+    width: 40%;
 }
 .link-button{
     text-decoration: none;
@@ -25,6 +25,7 @@ h1{
 
 
 
+
 #border{
     border-left: 4px solid;
     border-image: linear-gradient(red,orange);
@@ -34,3 +35,19 @@ h1{
 .orange-color{
     color: orange;
 }
+.nevy{
+    color: blue;
+    }
+    #text{
+        text-align: right;
+    }
+    .half-exprience{
+        width: 20%;
+        margin-left: 10%;
+        margin-right: 10%;
+        border-radius: 10px;
+        background-color: blue;
+    }
+    .half-exprience img{
+        width: 100%;
+    }
