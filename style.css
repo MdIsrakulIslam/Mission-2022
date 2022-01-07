@@ -63,7 +63,9 @@ h1{
 
 
 
-
+#top{
+    padding-top: 5%;
+}
 
 #border{
     border-left: 4px solid;
