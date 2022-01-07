@@ -46,6 +46,20 @@ h1{
     font-weight: 100;
     border-radius: 5px;
 }
+.link-B{
+    text-decoration: none;
+    background-image: linear-gradient(red,tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 100;
+    border-radius: 5px;
+    text-align: right;
+
+}
+.bg{
+    background-color: greenyellow;
+    
+}
 
 
 
@@ -108,3 +122,14 @@ h1{
     #pc{
         background-color: cornflowerblue;
     }
+    #link{
+        text-align: center;
+    
+    }
+    #hg{
+        padding-left: 35%;
+    }
+    #gg{
+        padding-left: 40%;
+    }
+    
